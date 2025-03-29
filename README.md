@@ -46,7 +46,7 @@ VALUES (1, 2, '2025-03-29');
 
 ## License
 
-This project is open-source. Feel free to modify and improve it!
+This project is open-source.
 
 ## Author
 
